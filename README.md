@@ -15,3 +15,4 @@
 ## Features
 
 -   Visualizing Raster and Vector Data
+- Analyzing Raster and Vector Data
